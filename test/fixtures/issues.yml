@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  journal: one
+  year: 1
+  volume: 1
+  numero: 1
+
+two:
+  journal: two
+  year: 1
+  volume: 1
+  numero: 1

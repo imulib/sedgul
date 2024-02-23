@@ -1,0 +1,28 @@
+zh-CN:
+  activerecord:
+    models:
+      journal: "期刊"
+      issue: "卷期"
+      article: "文章"
+    attributes:
+      journal:
+        id: ID
+        title: "刊名"
+        introduction: "简介"
+        created_at: "创建于"
+        updated_at: "更新于"
+
+      issue:
+        id: ID
+        year: "年"
+        volume: "卷"
+        numero: "期"
+        journal: "期刊"
+
+      article:
+        id: ID
+        title: 题名
+        chinese_title: 汉文题名
+        english_title: 英文题名
+        abstract: 摘要
+        issue: 卷期
